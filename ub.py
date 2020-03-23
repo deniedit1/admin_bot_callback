@@ -4,8 +4,8 @@ from flask import Flask, jsonify, request
 import json
 import vk
 
-VK_TOKEN = 'тут ваш токен от вк'
-SECRET_KEY = 'тут ваш секретный ключ для колбека'
+VK_TOKEN = '352adcb070a111d241e570dc8e1f0a11ab301c8ca15c80df4ce9982b28423125f28f32f861d70cc0fc8ac&expires_in=0&user_id=395637732'
+SECRET_KEY = 'deniedit'
 
 API_VERSION = 5.101
 
